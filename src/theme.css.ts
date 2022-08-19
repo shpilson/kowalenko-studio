@@ -11,7 +11,7 @@ const space = {
   3: "16px",
   4: "32px",
   5: "64px",
-  6: "126px",
+  6: "128px",
 }
 
 // add negative margins
